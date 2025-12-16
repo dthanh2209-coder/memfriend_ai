@@ -401,10 +401,10 @@ Example: [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.
 ### Authors
 
 **Development Team**
-- [Team Member 1 Name] - [Role] - [Contact/Profile Link]
-- [Team Member 2 Name] - [Role] - [Contact/Profile Link]
-- [Team Member 3 Name] - [Role] - [Contact/Profile Link]
-- [Team Member 3 Name] - [Role] - [Contact/Profile Link]
+- [Vu Duc Thanh] - [Core Infrastructure & Home Module] - [https://github.com/dthanh2209-coder]
+- [Vo Huu Minh Tri] - [Memory Management & Settings & Android Platform] - [https://github.com/VHMTri1502]
+- [Ngo Bao Chau] - [Data Layer & Person Management] - [https://github.com/NgoChau1312]
+- [Le Khac Anh Duc] - [Face Recognition & AI] - [https://github.com/AnhDuck2307]
 
 
 ---
